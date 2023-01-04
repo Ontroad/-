@@ -6,4 +6,5 @@ To train DQN on Atari games, the following components must be installed:
 - tensorboardX
 # Training DQN on Atari games
 Execute the following command to run the program:
+
 python run.py - -env_name PongNoFrameskip-v4
